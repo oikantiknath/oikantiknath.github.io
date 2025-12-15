@@ -17,7 +17,7 @@ const portfolioData = {
     github: "https://github.com/oikn2018",
     googleScholar: "https://scholar.google.com/citations?user=Lfa-m6MAAAAJ&hl=en",
     tags: ["#multimodality", "#document-processing", "#OCR", "#LLMs"],
-    cvUrl: "https://oikantik-resume.tiiny.site" // Replace with a link to your CV PDF
+    cvUrl: "https://oikantiknath.github.io/resume_oikantik.pdf" 
   },
   publications: [
     { year: "2025", title: "Can Vision-Language Models Evaluate Handwritten Math?", authors: "Oikantik Nath, Hanani Bathina, Mohammed Safi Ur Rahman Khan, Mitesh M. Khapra", journal: "Association for Computational Linguistics (ACL)", url: "#" },
